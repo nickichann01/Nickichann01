@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋 It's me! Nickichan!</h1>
-<h3 align="center">Lost in Everything 👌</h3>
+<p><img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/Welcome.gif" width="1500" height="220"/></p>    
+
+<p><img align = "right" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/6tXM.gif" width="500" height="320"/></p>    
 
 - 🌱 I’m currently learning <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
