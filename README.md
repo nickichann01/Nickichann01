@@ -1,8 +1,11 @@
 <h1 align="center">Hi there 👋 It's me! Nickichan!</h1>
 <h3 align="center">Lost in Everything 👌</h3>
 
-- 🌱 I’m currently learning **c# and phyton**
-
+- 🌱 I’m currently learning <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+**and**<a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    
 - 💬 Ask me about **café**
 
 - 📫 How to reach me **patricianicolegrimaldo@gmail.com**
