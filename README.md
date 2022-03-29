@@ -1,5 +1,5 @@
 <p><img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/Welcome.gif" width="1500" height="220"/></p>    
-
+<h1 align="center"> 📃 About Me! </h1>
 <p><img align = "right" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/6tXM.gif" width="500" height="320"/></p>    
 
 - 🌱 I’m currently learning <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -7,13 +7,16 @@
 **and**<a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     
-- 💬 Ask me about **café ☕**
+- 🧑🎒 Student of **STI**
 
-- 📫 How to reach me **patricianicolegrimaldo@gmail.com**
+- 💬 Ask me about **café ☕**
 
 - ⚡ Fun fact **I'm still lost...**
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **patricianicolegrimaldo@gmail.com**
+
+
+<h3 align="left">🔗 Connect with me</h3>
 <p align="left">
 <a href="https://fb.com/nic" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nic" height="30" width="40" /> </a>
@@ -21,7 +24,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicki_pen__" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">👨‍💻 Programming Language(s)</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -31,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Devops:</h3>
+<h3 align="left">💻🌐 Devops</h3>
 
 <p align="left"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -39,7 +42,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
  
- <h3 align="left">Frontend Development:</h3>
+ <h3 align="left">💻 Frontend Development</h3>
  <p align="left">
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
