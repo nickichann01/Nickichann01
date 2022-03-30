@@ -1,4 +1,4 @@
-<!--Banner by me-->
+<!--Banner by yours trully-->
 <p><img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/bann.gif" width="1500" height="220"/></p>    
 
 <h1 align="center"><b> About me 📙 </b></h1>
@@ -16,11 +16,11 @@
 **and**<a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     
-- 🧑🎒 Student of **STI**
+- 🎒 Student of **STI**
 
 - 💬 Ask me about **café ☕**
 
-- 🔰 Started using Github last **January**
+- 🔰 Started using Github last **January ☃️**
 
 - ⚡ Fun fact **I'm still lost...**
 
@@ -50,6 +50,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
     
 <!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
-## Contribution Graph
+## <p align="center"> Contribution Graph </p>
 
 ![snake gif](https://github.com/nickichann01/Nickichann01/blob/output/github-contribution-grid-snake.svg)
