@@ -1,6 +1,6 @@
-<p><img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/Welcome.gif" width="1500" height="220"/></p>    
-<h1 align="center"> 📃 About Me! </h1>
-<p><img align = "right" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/6tXM.gif" width="500" height="320"/></p>    
+<p><img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/bann.gif" width="1500" height="220"/></p>    
+
+<h1 align="center"><b> About me 📙 </b></h1>
 
 - 🌱 I’m currently learning <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
