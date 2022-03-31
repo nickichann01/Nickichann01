@@ -24,8 +24,6 @@
 
 - ⚡ Fun fact **I'm still lost...**
 
-
-
 ### 👨‍💻 Programming Language(s)
 <p align="left"> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
@@ -41,8 +39,6 @@
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
@@ -54,9 +50,17 @@
 
 ### 🎨 Design
 <p align="left"> 
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />&nbsp;&nbsp;  
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
 </p>
+
+### 🗄️Databases and Hosting
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;&nbsp;
+</p>
+
 
 <!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
 ## <p align="center"> Contribution Graph </p>
