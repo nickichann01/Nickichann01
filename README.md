@@ -61,6 +61,9 @@
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;&nbsp;
 </p>
 
+### 🤝Contributions
+
+ &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 
 <!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
 ## <p align="center"> Contribution Graph </p>
