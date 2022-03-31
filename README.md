@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-### 🛠️Operating System
+### 🛠️Operating Systems
 <p align="left"> 
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
@@ -63,9 +63,18 @@
 
 ### 🤝Contributions
 
- &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+</p>
+ 
+ ### 📁Personal Projects
+ <!--Credits to @Jookie262 for this amazing word animation-->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFCC00&center=true&vCenter=true&width=480&height=45&lines=S+O+O+N!!!;Still+Mastering+the+Git+and+GithHub;Personal+Projects+are+on+it's+way">
+  </a>
+</p>
 
 <!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
 ## <p align="center"> Contribution Graph </p>
-
 ![snake gif](https://github.com/nickichann01/Nickichann01/blob/output/github-contribution-grid-snake.svg)
