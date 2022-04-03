@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 💻🌐 IDE's
+### 💻 🌐 IDE's
 <p align="left"> 
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />&nbsp;&nbsp;
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-### 🛠️Operating Systems
+### 🛠️ Operating Systems
 <p align="left"> 
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
@@ -61,13 +61,13 @@
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-### 🤝Contributions
+### 🤝 Contributions
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
  
- ### 📁Personal Projects
+ ### 📁 Personal Projects
  <!--Credits to @Jookie262 for this amazing word animation-->
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/nickichann01/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Simple-Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
