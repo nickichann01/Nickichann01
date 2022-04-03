@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
 </p>
 
-### 🗄️Databases and Hosting
+### 🗄️ Databases and Hosting
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
@@ -68,7 +68,6 @@
 </p>
  
  ### 📁 Personal Projects
- <!--Credits to @Jookie262 for this amazing word animation-->
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/nickichann01/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Simple-Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
