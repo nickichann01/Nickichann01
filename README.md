@@ -69,11 +69,10 @@
  
  ### 📁Personal Projects
  <!--Credits to @Jookie262 for this amazing word animation-->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFCC00&center=true&vCenter=true&width=480&height=45&lines=S+O+O+N!!!;Still+Mastering+the+Git+and+GithHub;Personal+Projects+are+on+it's+way">
-  </a>
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/nickichann01/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Simple-Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
+
 
 <!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
 ## <p align="center"> Contribution Graph </p>
