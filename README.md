@@ -22,7 +22,7 @@
 
 - 🔰 Started using Github last **January ☃️**
 
-- ⚡ Fun fact **I'm still lost...**
+- ⚡ Fun fact *I'm still lost...*
 
 ### 👨‍💻 Programming Language(s)
 <p align="left"> 
