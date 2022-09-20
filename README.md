@@ -1,5 +1,5 @@
 <!--Banner by yours trully-->
-<!--<p><img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/bann.gif" width="1500" height="220"/></p>-->
+<p><img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/bann.gif" width="1500" height="220"/></p>
 
 
 ### 🤝 Contributions
