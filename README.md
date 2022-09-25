@@ -1,5 +1,5 @@
 <!--Banner by yours trully-->
-<p><img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/bann.gif" width="1500" height="220"/></p>
+<p> <img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/bann.gif" width="1500" height="220"/> </p>
 
 <h1 align="center">Hi 👋, I'm Nyx!</h1>
 <h3 align="center">Taking BSIT because i'm a nocturnal. Does it have a connection with my course? Of course No!</h3>
@@ -13,6 +13,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
  
  
 ##  💻 Tools
@@ -26,21 +27,21 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br>
  
- ## Streak Stats
+ ## 🔥 Streak Stats & 💻 Programming Used
  
- <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickichann01&" alt="nickichann01" /> </p> <br> <br>
+ <p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickichann01&" alt="nickichann01" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickichann01&" alt="nickichann01" /> </p> <br>
 
 ## 🤝 Contributions
 
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a> </p>
  
  ## 📁 Personal Projects
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/nickichann01/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Simple-Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/nickichann01/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Simple-Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a> </p>
 
 
 <!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
