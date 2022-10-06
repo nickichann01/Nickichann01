@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nyx!</h1>
 <h3 align="center">Taking BSIT because i'm a nocturnal. Does it have a connection with my course? Of course None!</h3>
 
-- 🌱 I’m currently learning **C#, Database, Python** <br>
+- 🌱 I’m currently learning **C#, HTML, Database, Python** <br>
 
 ##  💻  Languages
 
