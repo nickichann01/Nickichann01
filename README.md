@@ -29,10 +29,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <br>
  
-<!-- ## 🔥 Streak Stats & 💻 Programming Used
+## 🔥 Streak Stats & 💻 Programming Used
  
  <p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickichann01&" alt="nickichann01" /> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickichann01&" alt="nickichann01" /> </p> <br> -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickichann01&" alt="nickichann01" /> </p> <br>
 
 ## 🤝 Contributions
 
