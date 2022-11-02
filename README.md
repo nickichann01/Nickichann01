@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nyx!</h1>
 <h3 align="center">Nothing to see here.</h3>
 
-- 🌱 I’m currently learning **C#, HTML, Database, Python** <br>
+- 🌱 I’m currently learning **C#, HTML, CSS, Database, Python** <br>
 
 ##  💻  Languages
 
