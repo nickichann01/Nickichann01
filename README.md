@@ -26,8 +26,9 @@
  
 ## 🔥 Streak Stats & 💻 Programming Used
  
- <p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickichann01&" alt="nickichann01" /> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickichann01&" alt="nickichann01" /> </p> <br>
+ <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickichann01&" alt="nickichann01" /> 
+  
+ <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickichann01&" alt="nickichann01" /> --></p> <br>
 
 ## 🤝 Contributions
 
