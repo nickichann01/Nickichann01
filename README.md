@@ -24,7 +24,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <br>
  
-## 🔥 Streak Stats & 💻 Programming Used
+## 🔥 Streak Stats <!--& 💻 Programming Used-->
  
  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickichann01&" alt="nickichann01" /> 
   
