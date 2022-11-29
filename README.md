@@ -26,14 +26,18 @@
  
 ## 🔥 Streak Stats <!--& 💻 Programming Used-->
  
- <p align="left"> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nickichann01&" alt="nickichann01" /> </p>
- <p align ="right"> <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickichann01&layout=compact"/><br> </p> <br><br>
+ <p align= "left"> <img align = "left" alt="Nyx's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nickichann01&show_icons=true&theme=transparent&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000"/></p>
+ <p align ="right"> <img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickichann01&layout=compact"/></p><br><br>
+ 
+ <br> <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickichann01&" alt="nickichann01" /> </p>
+ <br><br>
 
 
 ## 🤝 Contributions
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a> </p>
+ 
  
  ## 📁 Personal Projects
 <p align="left">
