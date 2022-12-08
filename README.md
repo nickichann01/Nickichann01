@@ -47,3 +47,5 @@
 <!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
 ## <p align="center"> Contribution Graph </p>
 ![snake gif](https://github.com/nickichann01/Nickichann01/blob/output/github-contribution-grid-snake.svg)
+
+There are some hidden agenda that's going on here! 🤭
