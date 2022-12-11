@@ -2,7 +2,7 @@
 <!--<p> <img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/bann.gif" width="1500" height="220"/> </p>-->
 
 <h1 align="center">Hi 👋, I'm Nyx!</h1>
-<h3 align="center">Nothing to see here.</h3>
+<h3 align="center">Beyond Nothing.</h3>
 
 - 🌱 I’m currently learning **C#, Database, Python** <br>
 
