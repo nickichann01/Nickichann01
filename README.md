@@ -5,6 +5,7 @@
 <h3 align="center">Beyond Nothing.</h3>
 
 - 🌱 I’m currently learning **C#, Database, Python** <br>
+- Dumpping my repositories here. (Private Repositories)
 
 ##  💻  Languages and 💻 Tools
 
@@ -40,8 +41,7 @@
  
  ## 📁 Personal Projects
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/nickichann01/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Simple-Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/nickichann01/Cube" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Cube&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a></p>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/nickichann01/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Simple-Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
 <!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
