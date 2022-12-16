@@ -5,7 +5,7 @@
 <h3 align="center">Beyond Nothing.</h3>
 
 - 🌱 I’m currently learning **C#, Database, Python** <br>
-- Dumpping my repositories here. (Private Repositories)
+- Dumping my repositories here. (Private Repositories)
 
 ##  💻  Languages and 💻 Tools
 
