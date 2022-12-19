@@ -28,8 +28,7 @@
  
 ## 🔥 Streak Stats <!--& 💻 Programming Used-->
  
- <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickichann01&" alt="nickichann01" /> </p>
- <p align= "center"> <img align = "center" alt="Nyx's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nickichann01&show_icons=true&theme=transparent&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=FFA500"/></p>
+ <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickichann01&" alt="nickichann01" /> <img align = "center" alt="Nyx's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nickichann01&show_icons=true&theme=transparent&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=FFA500"/></p>
  <p align ="center"> <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickichann01&layout=compact"/></p>
  <br>
  <br>
