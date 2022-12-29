@@ -2,7 +2,7 @@
 <img align = "center" alt="gif" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" width="1200" height="170"/> </p>
 
 <h1 align="center">Hi 👋, Nyx here!</h1>
-<h3 align="center">Beyond Nothing.</h3>
+<h3 align="center">I don't know how to code.</h3>
 <p align="center">
 <a href="https://instagram.com/nicki.chan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicki.chan_" height="30" width="40" /></a>
 </p>
@@ -51,7 +51,6 @@
 ## <p align="center"> Contribution Graph </p>
 ![snake gif](https://github.com/nickichann01/Nickichann01/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
   
 <!--<p align="center"> 
   Visitor count<br>
