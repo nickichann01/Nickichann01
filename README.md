@@ -1,5 +1,5 @@
 <!--Banner by yours trully-->
-<!--<p> <img align = "center" alt="gif" src="https://github.com/nickichann01/Nickichann01/blob/main/bann.gif" width="1500" height="220"/> </p>-->
+<img align = "center" alt="gif" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" width="1200" height="170"/> </p>
 
 <h1 align="center">Hi 👋, Nyx here!</h1>
 <h3 align="center">Beyond Nothing.</h3>
@@ -37,8 +37,8 @@
 ##📁 Contributions and  Personal Projects
 
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a> &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/nickichann01/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Simple-Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=0,000000,130F40&title_color=7A7ADB&icon_color=2234AE&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a> &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/nickichann01/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Simple-Game&theme=react&bg_color=0,000000,130F40&title_color=7A7ADB&icon_color=2234AE&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
 
 <!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
