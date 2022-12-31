@@ -48,6 +48,7 @@
 ![snake gif](https://github.com/nickichann01/Nickichann01/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
+ You can contact me here. -->
 <a href="https://instagram.com/nicki.chan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicki.chan_" height="30" width="40" /></a>
 </p>
   
