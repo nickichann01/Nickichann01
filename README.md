@@ -30,8 +30,8 @@
  
 ## 🔥 Streak Stats <!--& 💻 Programming Used-->
  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nickichann01&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="ankit404butfound" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nickichann01&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nickichann01"/> </p>
+<!--<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nickichann01&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="ankit404butfound" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nickichann01&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nickichann01"/> </p>-->
 
  <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nickichann01&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3"/> </p>
@@ -44,8 +44,8 @@
 
 
 <!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
-<!--## <p align="center"> Contribution Graph </p>
-![snake gif](https://github.com/nickichann01/Nickichann01/blob/output/github-contribution-grid-snake.svg)-->
+## <p align="center"> Contribution Graph </p>
+![snake gif](https://github.com/nickichann01/Nickichann01/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
  You can contact me here. -->
