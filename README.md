@@ -36,7 +36,7 @@
  <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nickichann01&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3"/> </p>
 
-## 📁 Contributions and  Personal Projects
+## 📁 Contributions and Personal Projects
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=0,000000,130F40&title_color=7A7ADB&icon_color=2234AE&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a> &nbsp;&nbsp;&nbsp;&nbsp;
