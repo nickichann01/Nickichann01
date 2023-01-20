@@ -52,7 +52,7 @@
 <a href="https://instagram.com/nicki.chan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicki.chan_" height="30" width="40" /></a>
 </p>
   
-<!--<p align="center"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nickichann01/count.svg" />
-</p>-->
+</p>
