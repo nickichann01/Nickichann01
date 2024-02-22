@@ -44,10 +44,10 @@
  <a href="https://github.com/nickichann01/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickichann01&repo=Simple-Game&theme=react&bg_color=0,000000,130F40&title_color=7A7ADB&icon_color=2234AE&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
 
-<!-- Credits to @mishmanners for this amazing snake eating contribution graph-->
+<!-- Credits to @mishmanners for this amazing snake eating contribution graph
 ## <p align="center"> Contribution Graph </p>
 ![snake gif](https://github.com/nickichann01/Nickichann01/blob/output/github-contribution-grid-snake.svg)
-
+-->
 <p align="center">
  You can contact me here @Nicki.chan_ -->
 <a href="https://instagram.com/nicki.chan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicki.chan_" height="30" width="40" /></a>
