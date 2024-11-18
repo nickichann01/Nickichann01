@@ -50,7 +50,7 @@
 -->
 <p align="center">
  You can contact me here @Nicki.chan_ -->
-<a href="https://instagram.com/nicki.chan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicki.chan_" height="30" width="40" /></a>
+<a href="https://www.instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicki.chan_" height="30" width="40" /></a>
 </p>
   
 <p align="center"> 
